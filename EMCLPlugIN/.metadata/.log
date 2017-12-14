@@ -1,0 +1,34 @@
+!SESSION 2017-11-08 13:09:01.055 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-11-08 13:09:08.998
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 13:50:50.246
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 13:50:50.573
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2017-11-08 13:50:51.514
+!MESSAGE Taglib Index ZipException: /home/emira/git/protege-plugin-examples/src/main/resources/viewconfig-exampletab.xml error in opening zip file
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 13:51:33.645
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 15:43:28.978
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 15:46:12.530
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 15:55:31.813
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]
+
+!ENTRY org.eclipse.jdt.core 4 0 2017-11-08 15:58:17.363
+!MESSAGE Invalid ZIP archive: src/main/resources/viewconfig-exampletab.xml [in protege.plugin.examples]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-distribution/5.1.1/owlapi-distribution-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-compatibility/5.1.1/owlapi-compatibility-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-apibinding/5.1.1/owlapi-apibinding-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-api/5.1.1/owlapi-api-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/github/ben-manes/caffeine/caffeine/2.3.5/caffeine-2.3.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/guava/guava/20.0/guava-20.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/inject/guice/4.1.0/guice-4.1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-assistedinject/4.1.0/guice-assistedinject-4.1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-multibindings/4.1.0/guice-multibindings-4.1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-impl/5.1.1/owlapi-impl-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-parsers/5.1.1/owlapi-parsers-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-oboformat/5.1.1/owlapi-oboformat-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-tools/5.1.1/owlapi-tools-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sourceforge/owlapi/owlapi-rio/5.1.1/owlapi-rio-5.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/github/jsonld-java/jsonld-java/0.9.0/jsonld-java-0.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

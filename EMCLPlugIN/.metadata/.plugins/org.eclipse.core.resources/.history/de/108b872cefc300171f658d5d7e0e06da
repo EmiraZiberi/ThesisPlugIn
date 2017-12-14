@@ -1,0 +1,21 @@
+package edu.stanford.bmir.protege.examples.tab;
+
+import org.protege.editor.owl.ui.view.AbstractOWLViewComponent;
+
+public class DLsTab extends AbstractOWLViewComponent {
+	public void main(String[] args){
+		System.out.println("Hello");
+	}
+
+	@Override
+	protected void disposeOWLView() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	protected void initialiseOWLView() throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+}

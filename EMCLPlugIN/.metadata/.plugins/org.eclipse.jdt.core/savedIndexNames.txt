@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/emira/EMCLPlugIN/.metadata/.plugins/org.eclipse.jdt.core
+3678147561.index

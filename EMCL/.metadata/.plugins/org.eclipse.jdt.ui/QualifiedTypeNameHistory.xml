@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.semanticweb.owlapi.model.IRI"/>
+<fullyQualifiedTypeName name="org.semanticweb.owlapi.model.OWLOntology"/>
+<fullyQualifiedTypeName name="dlModel.OntologyHelper"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="org.semanticweb.owlapi.util.DefaultPrefixManager"/>
+<fullyQualifiedTypeName name="org.semanticweb.owlapi.io.StreamDocumentTarget"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.semanticweb.owlapi.io.OWLXMLOntologyFormat"/>
+<fullyQualifiedTypeName name="javax.swing.JFileChooser"/>
+</qualifiedTypeNameHistroy>

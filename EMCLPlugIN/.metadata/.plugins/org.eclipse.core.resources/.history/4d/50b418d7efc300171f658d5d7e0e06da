@@ -1,0 +1,14 @@
+package edu.stanford.bmir.protege.examples.tab;
+
+import java.awt.BorderLayout;
+
+import org.protege.editor.owl.ui.view.AbstractOWLViewComponent;
+
+public class DLsTab extends OWLWorkspaceViewsTab {
+	public void main(String[] args){
+		System.out.println("Hello");
+	}
+
+	@Override
+	
+}

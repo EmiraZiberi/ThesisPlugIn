@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <VSNode splits="0.5 0.5">
+        <HSNode splits="0.25 0.25">
+            <CNode>
+                <Component label="Class hierarchy">
+                    <Property id="pluginId" value="org.protege.editor.owl.OWLAssertedClassHierarchy"/>
+                </Component>
+            </CNode>
+            <CNode>
+                <Component label="DL query">
+                    <Property id="pluginId" value="org.coode.dlquery.OWLClassExpressionEditorViewComponent"/>
+                </Component>
+            </CNode>
+        </HSNode>
+        <CNode>
+            <Component label="OWLViz">
+                <Property id="pluginId" value="org.coode.owlviz.OWLVizView"/>
+            </Component>
+        </CNode>
+    </VSNode>
+</layout>
