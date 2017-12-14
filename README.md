@@ -5,7 +5,9 @@ DLs Ontology System is a Protege tab plug-in built to support the navigation of 
 # Prerequisites 
    1. Protégé 5.X (or later)
    2. Java 1.7 (or later)
+   
+# Files in This Folder
  
-# How to install
+# How to Install
 
-# How to run
+# How to Run
